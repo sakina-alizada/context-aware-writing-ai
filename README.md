@@ -1,4 +1,3 @@
-#context-aware-writing-ai
 ### Context-Aware AI Writing Assistant for Respectful Communication
 
 context-aware-writing is an AI-powered writing assistant designed to detect and improve biased or harmful language toward Indigenous Peoples. It provides context-aware feedback, rewriting suggestions, and explanations to help users write in a respectful and inclusive manner.
